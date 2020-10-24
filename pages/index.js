@@ -21,7 +21,7 @@ export default function Home() {
         <div className="grid">
           <Link href="#">
             <a className="card">
-              <h3>Let's go to 🌑 </h3>
+              <h3>Let's go to 🌕 </h3>
               <p>Are you ready for launch ?! 🚀</p>
             </a>
           </Link>
@@ -46,7 +46,7 @@ export default function Home() {
         }
 
         .moonbloch {
-          color: #0070f3;
+          color: #B00020;
           text-decoration: none;
         }
 
