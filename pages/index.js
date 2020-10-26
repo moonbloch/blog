@@ -46,7 +46,7 @@ export default function Home() {
         }
 
         .moonbloch {
-          color: #B00020;
+          color: #F57C00;
           text-decoration: none;
         }
 
